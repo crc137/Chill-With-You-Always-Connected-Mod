@@ -1,0 +1,27 @@
+# Release archives: the plugin DLL ships via GitHub Releases / Nexus Mods,
+# never committed
+*.zip
+dist/
+
+# Reference assemblies, copied from the game and BepInEx by hand.
+# They are game/BepInEx binaries and must not be redistributed.
+refs/
+
+# Build output
+bin/
+obj/
+
+# Logs
+*.log
+logs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
