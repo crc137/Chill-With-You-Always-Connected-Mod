@@ -11,7 +11,7 @@
   <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/crc137/Chill-With-You-Always-Connected-Mod?style=flat&amp;color=0080ff" style="margin: 0px 2px;">
   <img alt="repo-language-count" src="https://img.shields.io/github/languages/count/crc137/Chill-With-You-Always-Connected-Mod?style=flat&amp;color=0080ff" style="margin: 0px 2px;">
   <img alt="version" src="https://img.shields.io/badge/version-26.1.0-blue" style="margin: 0px 2px;">
-  <img alt="status" src="https://img.shields.io/badge/status-STABLE-green" style="margin: 0px 2px;">
+  <!-- img alt="status" src="https://img.shields.io/badge/status-STABLE-green" style="margin: 0px 2px;" -->
 </div>
 
 <br />
